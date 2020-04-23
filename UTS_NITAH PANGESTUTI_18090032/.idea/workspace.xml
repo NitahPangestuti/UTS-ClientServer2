@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db40b82b-5f57-4cbf-9611-58d08b0411b9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1akXELHkFcSNV5oQFUUfbdZiuWm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../UTS_PCS2-master" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Flask server.Flask (app.py)">
+    <configuration name="Flask" type="Python.FlaskServer" nameIsGenerated="true">
+      <module name="UTS_NITAH PANGESTUTI_18090032_4D" />
+      <option name="target" value="$PROJECT_DIR$/../UTS_NITAH PANGESTUTI_18090032/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\Nitah Pangestuti\PycharmProjects\ClientServer2\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../UTS_NITAH PANGESTUTI_18090032" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="UTS_PCS2_Azam Putra Imanto_18090011_4D" type="Python.FlaskServer">
+      <module name="UTS_NITAH PANGESTUTI_18090032_4D" />
+      <option name="target" value="$PROJECT_DIR$/../UTS_NITAH PANGESTUTI_18090032/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../UTS_NITAH PANGESTUTI_18090032" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db40b82b-5f57-4cbf-9611-58d08b0411b9" name="Default Changelist" comment="" />
+      <created>1587280453785</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587280453785</updated>
+      <workItem from="1587280604439" duration="4513000" />
+      <workItem from="1587301840043" duration="203000" />
+      <workItem from="1587304909077" duration="46000" />
+      <workItem from="1587304959208" duration="3000" />
+      <workItem from="1587304977921" duration="17000" />
+      <workItem from="1587380563452" duration="134000" />
+      <workItem from="1587380805908" duration="86000" />
+      <workItem from="1587397863810" duration="159000" />
+      <workItem from="1587624874426" duration="4499000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="409" y="53" key="#Flask_(app.py)" timestamp="1587626897270">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="409" y="53" key="#Flask_(app.py)/0.30.1366.738@0.30.1366.738" timestamp="1587626897270" />
+    <state x="463" y="151" key="FileChooserDialogImpl" timestamp="1587627498640">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587304953740" />
+    <state x="463" y="151" key="FileChooserDialogImpl/0.30.1366.738@0.30.1366.738" timestamp="1587627498640" />
+    <state width="1286" height="166" key="GridCell.Tab.0.bottom" timestamp="1587633541872">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1587286205545" />
+    <state width="1286" height="166" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1587633541872" />
+    <state width="1286" height="166" key="GridCell.Tab.0.center" timestamp="1587633541872">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1587286205545" />
+    <state width="1286" height="166" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1587633541872" />
+    <state width="1286" height="166" key="GridCell.Tab.0.left" timestamp="1587633541872">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1587286205545" />
+    <state width="1286" height="166" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1587633541872" />
+    <state width="1286" height="166" key="GridCell.Tab.0.right" timestamp="1587633541872">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1587286205545" />
+    <state width="1286" height="166" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1587633541872" />
+    <state x="186" y="45" key="SettingsEditor" timestamp="1587626871280">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="186" y="45" key="SettingsEditor/0.30.1366.738@0.30.1366.738" timestamp="1587626871280" />
+    <state x="391" y="226" key="com.intellij.ide.util.TipDialog" timestamp="1587633738628">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="391" y="226" key="com.intellij.ide.util.TipDialog/0.30.1366.738@0.30.1366.738" timestamp="1587633738628" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/UTS_Risnanda_hasna_mufida_18090092_4A$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1587627120311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/UTS_PCS2_Azam_Putra_Imanto_18090011_4D$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1587285116675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
